@@ -5,7 +5,7 @@ Dataset and script for the paper:
 _Judging the judge: Can LLMs track attitude-holders in predicates of personal taste?_ Cong, Yan. 2026, AACL-IJCNLP, Findings.
 
 
-A suite of hypothesis-driven tests and datasets exploring LLM-as-judge when annotating subjective content. 
+A suite of hypothesis-driven tests and datasets exploring LLM-as-judge when annotating subjective content. Please contact cong4 at purdue dot edu if you have any questions about the datasets.
 
 Datasets were created based on:
 
